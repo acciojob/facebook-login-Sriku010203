@@ -2,10 +2,6 @@
 body{
 	background-color:#f6f6f6;
 }
-.title{
-	font-weight:bold;
-	color:blue;
-}
 .container{
 	width:100%;
 	display:flex;
@@ -33,6 +29,7 @@ input{
 	border:1px solid #ccc;
 	border-radius:5px;
 	padding:10px;
+	width:100%;
 }
 a{
 	text-decoration:none;
